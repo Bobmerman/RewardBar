@@ -16,14 +16,14 @@
   margin-top:130px;
 }
 .RewardBar_progress_complete {
-  background: #ff7618;
-  border-bottom: 20px solid #f95c40;
-  border-radius: 2px;
-  box-shadow: 2px 0 #040404;
-  height: 50%;
-  position: absolute;
-  animation-duration: 5s;
-  animation-name: slidein;
+    background: #00BCD4;
+    border-bottom: 0px solid #2196F3;
+    border-radius: 5px;
+    box-shadow: inset 0px 4px #80DEEA, inset 0px -4px 0px 0px #3f51b5, inset 0px -20px 0px 0px #2196F3;
+    height: 100%;
+    position: absolute;
+    animation-duration: 5s;
+    animation-name: slidein;
 }
 .reward{
   transform: skew(0deg, 0deg);
