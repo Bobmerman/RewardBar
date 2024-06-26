@@ -8,7 +8,7 @@
   height: 40px;
   overflow-x: hidden;
   position: relative;
-  transform: skew(-4deg, 0deg);
+  transform: skew(0deg, 0deg);
   width: 1000px;
   /*width: 90%;*/
   margin: 0px;
